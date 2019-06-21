@@ -7,6 +7,9 @@
 * [Site.css](./CS/WebSite/Styles/Site.css)
 <!-- default file list end -->
 # How to use ASPxGridView with the jQuery UI Sortable plugin
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3836)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to use the DevExpress ASP.NET control (ASPxGridView) within the <a href="http://jqueryui.com/demos/sortable/"><u>jQuery UI Sortable plugin</u></a>.</p><p>There is an issue when using our controls within jQuery ajax-based plugins:<br />
