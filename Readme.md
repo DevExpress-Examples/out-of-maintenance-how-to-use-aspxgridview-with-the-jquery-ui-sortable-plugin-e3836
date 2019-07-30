@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # How to use ASPxGridView with the jQuery UI Sortable plugin
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3836)**
+**[[Run Online]](https://codecentral.devexpress.com/e3836/)**
 <!-- run online end -->
 
 
